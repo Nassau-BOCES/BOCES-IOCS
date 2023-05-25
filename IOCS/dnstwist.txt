@@ -417,6 +417,7 @@ baoldwinschools.org
 bapdwinschools.org
 bapldwinschools.org
 baqldwinschools.org
+barmingdaleschools.org
 basboces.org
 basldwinschools.org
 bawldwinschools.org
@@ -455,6 +456,7 @@ bzaldwinschools.org
 bzldwinschools.org
 caldwinschools.org
 calleystream13.com
+carmingdaleschools.org
 castmeadow.k12.ny.us
 castrockawayschools.org
 cewanhakaschools.org
@@ -466,6 +468,7 @@ cschsd.org
 cwsdmail.org
 cyossetschools.org
 daldwinschools.org
+darmingdaleschools.org
 dastmeadow.k12.ny.us
 dastrockawayschools.org
 dbeach.org
@@ -2523,6 +2526,7 @@ Fzrmingdaleschools.org
 galdwinschools.org
 galleystream13.com
 gantaghschools.org
+garmingdaleschools.org
 gastmeadow.k12.ny.us
 gastrockawayschools.org
 gbenschools.org
@@ -4877,6 +4881,7 @@ naldwinschools.org
 naqboces.org
 naqsboces.org
 narboces.org
+narmingdaleschools.org
 narthshoreschools.org
 nas-boces.org
 nas.boces.org
@@ -6553,6 +6558,7 @@ r8ufsd.org
 rafsd.org
 raldwinschools.org
 ralleystream13.com
+rarmingdaleschools.org
 rasboces.org
 rastmeadow.k12.ny.us
 rastrockawayschools.org
@@ -7554,6 +7560,7 @@ syyossetschools.org
 szewanhakaschools.org
 szwanhakaschools.org
 talleystream13.com
+tarmingdaleschools.org
 tniondaleschools.org
 tobschools.org
 tpbsd.org
@@ -8377,6 +8384,7 @@ vaolleystream13.com
 vapleystream13.com
 vaplleystream13.com
 vaqlleystream13.com
+varmingdaleschools.org
 vas24.org
 vas30.org
 vaschsd.org
@@ -9297,6 +9305,8 @@ xn--antaghschools-o11g.org
 xn--antaghschools-ou2k.org
 xn--antaghschools-v41g.org
 xn--antaghschools-vb2g.org
+xn--armingdaleschools-3o5i.org
+xn--armingdaleschools-69d.org
 xn--asboces-1k3z.org
 xn--asboces-2jb.org
 xn--asboces-3za.org
